@@ -5,3 +5,12 @@ h1{
     text-wrap: bold;
     text-align: center;
 }
+.iniciosesion{
+    display: inline;
+    border: black solid 2px;
+}
+.boton{
+    background-color: blue;
+    border: 0px;
+    color: white;
+}
